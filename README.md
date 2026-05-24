@@ -1,4 +1,4 @@
-# Analysis of products sold over different countries, under multiple segments
+# Business Segments Financial Perfermance
 # Objective 
 To know the performance of products at different countries and multiple segments
 # Description 
@@ -63,3 +63,6 @@ Created column & line chart and separeted it by segment, to compare the profit a
 ### This page provides understanding for the role of discounts.<br>
 Added slicers to filter out country and segment.<br>
 Created a 100% stacked bar chart, to show the change in profit & unit sold by allowing the discounts to the products.<br>
+## Preview, followed by file link. <br>
+<img width="1396" height="797" alt="Image" src="https://github.com/user-attachments/assets/8c263fc5-2fc9-4292-a76f-e775948783de" />
+https://github.com/pranav2562/Financial-Data-Insights/blob/main/Product_analysis.pbix
