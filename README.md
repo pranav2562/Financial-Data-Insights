@@ -33,7 +33,7 @@ Created a column chart to show the average manufacturing cost by product.<br>
 Created a 100% stacked bar chart to show the profit made by product.<br>
 
 
-## Cost by C&S (Page 4)<br>
+## Cost by Country (Page 4)<br>
 ### Informs about the cost of products.<br>
 Added slicer to filter out country & segment.<br>
 Created a bar chart to show the cost of different product.<br>
@@ -49,7 +49,7 @@ Created aribbon chart.<br>
 Added button filter to filter out segment & products.<br>
 Created a line chart to show the sum of cost price and the sale price over the time frame.<br>
 
-## Ranking of Products by Profit (Page 7)<br>
+## Profit by time line (Page 7)<br>
 ### Ranked the products to show ranking over the time.<br>
 Added button filter to filter out segment.<br>
 Created a ribbon chart to rank the product by profit over the time frame.<br>
