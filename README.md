@@ -1,10 +1,10 @@
-# Business Segments Financial Perfermance
+# Business Segments Financial Performance
 # Objective 
 To know the performance of products at different countries and multiple segments
 # Description 
 To know about the products cost, profit and units sold over different countries & multiple segments.
 # Tech Stack 
-Excel was used to create table. <br>
+SQL was used to get the dataset, downloded in .csv format. <br>
 Power Query was used to create required columns and cleaning part. <br>
 Pwer BI was used to create right charts to express numbers to visuals.
 # Insights 
