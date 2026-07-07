@@ -4,9 +4,9 @@ To know the performance of products at different countries and multiple segments
 # Description 
 To know about the products cost, profit and units sold over different countries & multiple segments.
 # Tech Stack 
-SQL was used to get the dataset, downloded in .csv format. <br>
-Power Query was used to create required columns and cleaning part. <br>
-Pwer BI was used to create right charts to express numbers to visuals.
+Cleaned and prepared data set using SQL from raw data set <br>
+Combined different table using joins and validated them. <br>
+Used Power BI to create interactive dashboard to express findings through visuals.
 # Insights 
 
 ## Overview (page 1) <br>
